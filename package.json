@@ -1,14 +1,15 @@
 {
-  "name": "prettier-markdown-issue",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "prettier": "^3.2.5"
-  }
+    "name": "prettier-markdown-issue",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "prettier": "^3.2.5",
+        "prettier-plugin-svelte": "^3.2.1"
+    }
 }
